@@ -1,0 +1,22 @@
+let favoriteMovie = {
+    movieInfo: {
+    nameofMovie: "The Godfather",
+    runTime: "175 min",
+    Genre: "Crime, Drama"
+    },
+    
+    character1Info: {
+    name: "Michael Corleone",
+    age:"41", 
+    items : ["Brother", "Son"],
+    
+  },
+    character2Info: {
+    name: "Vito Corleone",
+    age: "65",
+    items: ["Father", "Godfather"]
+    }
+  };
+  
+  //console.log(Object.keys);
+   console.log(favoriteMovie.character2Info.name.age);

@@ -1,0 +1,13 @@
+:root {
+    --brown: #6D6656;
+    --grey: #53565A;
+    --black: #272727;
+
+    --heading-font: "Texas"
+
+}
+@font-face {
+    font-family: "Texas";
+    src: url("../assets/Texas.otf");
+
+}
